@@ -15,6 +15,7 @@ public class HolaMundo {
 		System.out.println(array[1]);
 		System.out.println(array[2]);
 		System.out.println("Viva España")
+		System.out.println("Viva España 2")
 
 		for (int x : array) {
 			System.out.println(x);
